@@ -1,0 +1,6 @@
+#ifndef MERGE_FILES_H
+#define MERGE_FILES_H
+
+int merge_files(const char *file_1, const char *file_2);
+
+#endif /* ! MERGE_FILES_H */

@@ -1,0 +1,7 @@
+in this exercise, you have to write a
+function that returns the number of words
+written in the file file_in. You have to open file_in
+in read-only mode. In the file, words can be separated by any
+number of spaces, tabulations and line feeds.
+If any error occurs or NULL parameters, your function
+must return -1
